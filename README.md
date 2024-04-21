@@ -1,5 +1,5 @@
 <div align="center">
- 👑<b>KEITH MD</b>👑</b>
+ 👑<b>Faisal udas MD</b>👑</b>
 	   
  
   
@@ -8,14 +8,14 @@
 	  
 </p>
 </a>
-<h1 align="center"><b>HEY I AM MR KEITH</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>HEY I AM MR Faisal udas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,;Keith+is+an+active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
 </p>
                        
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/10cac2ce2fbfcdcd0b6e8.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/c9cf81098ddc12e44148b.jpg" alt="01" border="0" /></a>                     
  
   <a aria-label="Keith-md is free to use" href="https://youtube.com/@keithkeizzah" target="_blank">
     <img alt="Keithkeizzah" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
@@ -31,7 +31,7 @@
 
 
 NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
-EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
+EXAMPLE PUT IN YOUR NUMBER: 923xxxxx,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
 
 1. Fork the repo
     <br>
@@ -86,7 +86,7 @@ star repo if you like this bot✨
 </p>
 
 ##
-𝐊𝐄𝐈𝐓𝐇-𝐌𝐃
+Faisal-udas-𝐌𝐃
 
 [![Keith tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+keith;hacker🥰)](https://github.com/keithkeizzah)
 

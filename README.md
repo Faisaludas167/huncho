@@ -21,7 +21,7 @@
     <img alt="Keithkeizzah" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
   
-## THE THREE STEPS TO MAKE THE BOT
+## THE Faisal udas STEPS TO MAKE THE BOT
 	
 📌 FIRST FORK THE REPO.
 
@@ -31,7 +31,7 @@
 
 
 NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
-EXAMPLE PUT IN YOUR NUMBER: 923xxxxx,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
+EXAMPLE PUT IN YOUR NUMBER: +923112657705,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
 
 1. Fork the repo
     <br>
@@ -65,7 +65,7 @@ The 𝗞𝗘𝗜𝗧𝗛 𝗠𝗗 is made available under the [GPL-3 license](ht
 <h2 align="center">  NOTICE
 </h2>
    
-## 
+##  Faisal udas 923037484167
 star repo if you like this bot✨
 ##
 -if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
